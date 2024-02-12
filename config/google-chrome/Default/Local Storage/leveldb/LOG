@@ -1,0 +1,9 @@
+2024/01/30-13:17:13.811 4 Reusing MANIFEST /home/axiom/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/30-13:17:13.813 4 Recovering log #3
+2024/01/30-13:17:13.815 4 Reusing old log /home/axiom/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2024/01/30-13:18:00.422 4 Level-0 table #5: started
+2024/01/30-13:18:00.434 4 Level-0 table #5: 95696 bytes OK
+2024/01/30-13:18:00.446 4 Delete type=0 #3
+2024/01/30-16:30:27.646 4 Level-0 table #7: started
+2024/01/30-16:30:27.653 4 Level-0 table #7: 29823 bytes OK
+2024/01/30-16:30:27.663 4 Delete type=0 #4

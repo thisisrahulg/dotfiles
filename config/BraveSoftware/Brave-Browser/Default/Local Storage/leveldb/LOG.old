@@ -1,0 +1,9 @@
+2024/02/12-00:15:18.018 4 Reusing MANIFEST /home/axiom/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/02/12-00:15:18.059 4 Recovering log #4
+2024/02/12-00:15:18.068 4 Reusing old log /home/axiom/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000004.log 
+2024/02/12-00:15:45.672 4 Level-0 table #8: started
+2024/02/12-00:15:45.694 4 Level-0 table #8: 51700 bytes OK
+2024/02/12-00:15:45.708 4 Delete type=0 #4
+2024/02/12-00:18:14.785 4 Level-0 table #10: started
+2024/02/12-00:18:14.806 4 Level-0 table #10: 190410 bytes OK
+2024/02/12-00:18:14.818 4 Delete type=0 #7
